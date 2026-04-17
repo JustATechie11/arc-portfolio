@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Arpan Charola | Modern Portfolio
 
-## Getting Started
+A high-performance, responsive portfolio website built with **Next.js 15**, **Tailwind CSS**, and **TypeScript**. [cite_start]This project showcases my journey as a Technical Support Manager and an aspiring Software Engineer[cite: 6].
 
-First, run the development server:
+## 🛠️ Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* **Framework:** Next.js (App Router)
+* **Styling:** Tailwind CSS (Bento-grid design)
+* **Language:** TypeScript
+* **Deployment:** GitHub Pages (Static Export)
+* **Development:** GitHub Codespaces
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Responsive Bento Layout:** Optimized for desktop "no-scroll" view and mobile stacking.
+* **Dark Mode Aesthetic:** Sleek, modern interface using the Neutral-950 color palette.
+* **Static Site Generation (SSG):** Lightning-fast load times via GitHub Pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 Project Highlights (Included in Code)
 
-## Learn More
+* [cite_start]**Photorealistic Floral Synthesis:** A DCGAN-based deep learning project using PyTorch[cite: 24, 28].
+* [cite_start]**Heritage of India:** A full-stack culture exploration platform[cite: 29, 31].
 
-To learn more about Next.js, take a look at the following resources:
+## 🎓 Education & Background
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* [cite_start]**Degree:** B.Tech in Information Technology at Marwadi University (Expected 2026).
+* [cite_start]**Academic Standing:** 8.09 CGPA.
+* **Current Role:** Technical Support Manager.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Created by [Arpan Charola](https://github.com/ArpanCharola)*
